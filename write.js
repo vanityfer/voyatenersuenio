@@ -25,13 +25,13 @@ function displayMenu(selected, enabled) {
       //}
       let cell = document.createElement('td');
       if (selected === name) {
-        cell.appendChild(SPAN1('selected', random(TEXT(name))));
+        cell.appendChild(SPAN1('selected', TEXT(name)));
       } else if (enabled) {
         cell.appendChild(A_onclick(TEXT(name), function () {
           start(name);
         }));
       } else {
-        cell.appendChild(SPAN1('disabled',random(TEXT(name))));
+        cell.appendChild(SPAN1('disabled', TEXT(name)));
       }
       row.appendChild(cell);
     }
