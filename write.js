@@ -12,7 +12,7 @@ function displayMenu(selected, enabled) {
   clearElem(elem);
 
   let table = document.createElement("table");
-  let row_size = 4;
+  let row_size = 1;
   for (let i = 0; i < NAMES.length; i += row_size) {
     let row = document.createElement("tr");
     for (let j = 0; j < row_size; j++) {
@@ -25,7 +25,7 @@ function displayMenu(selected, enabled) {
       //}
       let cell = document.createElement('td');
       if (selected === name) {
-        cell.appendChild(SPAN1('selected', TEXT(name)));
+        cell.appendChild(SPAN1('selected', random(TEXT(name))));
       } else if (enabled) {
         cell.appendChild(A_onclick(TEXT(name), function () {
           start(name);
