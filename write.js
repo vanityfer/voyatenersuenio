@@ -1,5 +1,5 @@
 
-const AFTER_LETTER_DELAY = 250;
+const AFTER_LETTER_DELAY = 150;
 const AFTER_VERSE_DELAY = 300;
 const AFTER_STANZA_DELAY = 1000;
 
@@ -31,7 +31,7 @@ function displayMenu(selected, enabled) {
           start(name);
         }));
       } else {
-        cell.appendChild(SPAN1('disabled', TEXT(name)));
+        cell.appendChild(SPAN1('disabled',random(TEXT(name))));
       }
       row.appendChild(cell);
     }
