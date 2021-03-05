@@ -1,25 +1,25 @@
 
 let NAMES = [
-  "Martín",
-  "Alejandra",
-  "Héctor",
-  "Jorge",
-  "Carla",
-  "Z.",
-  "Daiana",
-  "Ezequiel",
-  "Juli",
-  "Nicolás",
-  "L.",
-  "Yohanna",
-  "T.",
-  "María",
-  "Ignacio",
-  "B.",
+  "soñé",
+  "soñé",
+  "soñé",
+  "soñé",
+  "soñé",
+  "soñé",
+  "soñé",
+  "soñé",
+  "soñé",
+  "soñé",
+  "soñé",
+  "soñé",
+  "soñé",
+  "soñé",
+  "soñé",
+  "soñé",
 ];
 
 let VERSES = {
-  "Ezequiel": [
+  "soñé": [
     "película cuarto de libra con queso cómo se llama",
     "tiempos violentos película completa",
     "tiempos violentos película completa español latino",
@@ -40,7 +40,7 @@ let VERSES = {
     "quién escribió voy a tener suerte",
     "análisis voy a tener suerte"
   ],
-  "Carla": [
+  "soñé": [
     "no me viene",
     "no me viene hace 2 meses",
     "no me viene hace 2 meses y tomo pastillas",
@@ -61,7 +61,7 @@ let VERSES = {
     "tasa de mortalidad perinatal argentina",
     "psicóloga duelo perinatal"
   ],
-  "Z.": [
+  "soñé": [
     "mujer gritándole a gato",
     "mujer gritándole a gato meme",
     "mujer gritándole a gato meme origen",
@@ -82,7 +82,7 @@ let VERSES = {
     "qué cambia en el instante en el que una persona muere",
     "por qué una persona viva se convierte en una persona muerta"
   ],
-  "Daiana": [
+  "soñé": [
     "dejar de sufrir",
     "dejar de sufrir por tu ex",
     "cómo dejar en el pasado a tu ex",
@@ -103,7 +103,7 @@ let VERSES = {
     "soñar con peces muertos qué significa",
     "soñar con peces muertos"
   ],
-  "Ignacio": [
+  "soñé": [
     "pity álvarez preso",
     "pity álvarez fotos preso",
     "pity álvarez edad",
@@ -124,7 +124,7 @@ let VERSES = {
     "diario olé river plate refuerzos",
     "diario olé river campeón libertadores"
   ],
-  "Alejandra": [
+  "soñé": [
     "cómo hacer velas",
     "cómo hacer velas aromáticas",
     "cómo hacer velas aromáticas paso a paso",
@@ -145,7 +145,7 @@ let VERSES = {
     "plaga hormigas rojas chiquitas vinagre",
     "por qué las hormigas se llevan a las muertas"
   ],
-  "B.": [
+  "soñé": [
     "mi marido se fue",
     "mi marido se fue con su ex",
     "mi marido se fue pero no se llevó sus cosas",
@@ -166,7 +166,7 @@ let VERSES = {
     "enfermedad de buscar todo en internet",
     "dejar de buscar respuestas en internet"
   ],
-  "T.": [
+  "soñé": [
     "c++ af\_inet",
     "c++ af\_inet sock\_stream",
     "c++ af\_inet sock\_stream bind listen",
@@ -187,7 +187,7 @@ let VERSES = {
     "tagalog ng focus",
     "morphosyntactic alignment in austronesian languages"
   ],
-  "Yohanna": [
+  "soñé": [
     "tiananmen plaza",
     "tiananmen plaza masacre",
     "tiananmen plaza masacre 1989",
@@ -208,7 +208,7 @@ let VERSES = {
     "estimulación ano hombre",
     "estimulación bucal del ano"
   ],
-  "Martín": [
+  "soñé": [
     "piazzolla adiós nonino",
     "piazzolla adiós nonino partitura",
     "piazzolla adiós nonino partitura piano",
@@ -229,7 +229,7 @@ let VERSES = {
     "factura metrogas vencida dónde pagar online",
     "truchar medidor de gas argentina"
   ],
-  "Juli": [
+  "soñé": [
     "cbc dibujo cátedra murgia",
     "cbc dibujo cátedra murgia modelos de examen",
     "perdonar una infidelidad",
@@ -250,7 +250,7 @@ let VERSES = {
     "iron maiden recital horario",
     "estadio josé amalfitani cómo llegar"
   ],
-  "Jorge": [
+  "soñé": [
     "rubia argentina",
     "rubia argentina tetona",
     "rubia argentina tetona le dan por el culo",
@@ -271,7 +271,7 @@ let VERSES = {
     "por qué la luna se ve roja",
     "por qué la luna se ve roja eclipse de sangre"
   ],
-  "L.": [
+  "soñé": [
     "ayuda hijo con discapacidad",
     "ayuda hijo con discapacidad a cargo",
     "ayuda hijo con discapacidad a cargo hacienda",
@@ -292,7 +292,7 @@ let VERSES = {
     "longchamps la plata tren horarios",
     "longchamps estación tren roca"
   ],
-  "María": [
+  "soñé": [
     "cuándo cobran los docentes",
     "cuándo cobro el aguinaldo",
     "cuándo cobro el aguinaldo docente",
@@ -313,7 +313,7 @@ let VERSES = {
     "aries y acuario en la cama",
     "aries y aries se atraen"
   ],
-  "Nicolás": [
+  "soñé": [
     "mi familia me critica por todo",
     "cómo hago para irme de mi casa",
     "tramitar ciudadanía italiana",
@@ -329,7 +329,7 @@ let VERSES = {
     "terminar con el sufrimiento",
     "estoy cansado de vivir"
   ],
-  "Héctor": [
+  "soñé": [
     "clima en tandil",
     "clima en tandil para el domingo",
     "indumentaria pesca tandil",
