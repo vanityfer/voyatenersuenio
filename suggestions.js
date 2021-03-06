@@ -18,7 +18,7 @@ let SUGGESTIONS = [
 “soñé que la tortuga era un ser expresivo que me quería estábamos en el patio”,
 “soñé que ponía chubby checker para bailar y alguien lo cambiaba y ponía una canción triste de calamaro y se reía de mí”,
 “soñé que escribía un libro sobre la nieve”,
-“soñé que era el dos mil sesenta y seis y caminaba sola en un supermercado Toledo”,
+“soñé que era el dos mil sesenta y seis y caminaba sola en un supermercado toledo”,
 “soñé que corría desquiciadamente para recuperar un paraguas blanco”,
 “soñé que tomaba horas para trabajar en el baño de un boliche”,
 “soñé con ropa vintage”,
