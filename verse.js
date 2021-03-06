@@ -28,8 +28,8 @@ let VERSES = {
      "",
     "soñé que flavia y rodrigo me saludaban desde un auto",
     "soñé que en luro y san juan había una frontera",
-    "la cruzábamos de la mano",
-    "soñé con un lugar mágico al que podía entrar desde mi casa"
+    "cruzábamos de la mano",
+    "soñé con un lugar mágico al que se podía entrar desde mi casa"
      "",
     "soñé que juan ariel gomez me decía sos un embole en blanco y negro",
     "dormí siete minutos y",
