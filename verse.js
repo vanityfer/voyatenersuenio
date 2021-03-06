@@ -24,7 +24,12 @@ let VERSES = {
     "soñé que me mudaba",
     "soñé que el auto estaba lleno de papeles",
     "que me tapaban la cara",
-    "soñé que el mar crecía y no había forma de subir al acantilado"
+    "soñé que el mar crecía y no había forma de subir al acantilado", 
+     "",
+    "soñé que flavia y rodrigo me saludaban desde un auto",
+    "soñé que en luro y san juan había una frontera",
+    "la cruzábamos de la mano",
+    "soñé con un lugar mágico al que podía entrar desde mi casa"
   ]
    
  
