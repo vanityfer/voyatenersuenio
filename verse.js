@@ -6,26 +6,27 @@ let NAMES = [
 
 let VERSES = {
   "soñé": [
-   “soñé que te daba una cachetada”,
-   “soñé que no”,
-   “me dormí un ratito y soñé que te quebrabas las dos plantas de los pies”,
-   “soñé con el techo de villa silvina”,
+    "clima en tandil",
+    "clima en tandil para el domingo",
+    "indumentaria pesca tandil",
+    "cuántos km tiene el dique de tandil",
     "",
-     “soñé que te daba una cachetada”,
-   “soñé que no”,
-   “me dormí un ratito y soñé que te quebrabas las dos plantas de los pies”,
-   “soñé con el techo de villa silvina”,
+    "créditos banco ciudad",
+    "banco ciudad créditos tasa",
+    "banco ciudad créditos consorcios",
+    "banco ciudad créditos consorcios requisitos otorgamiento",
     "",
-    "cómo se escribe deconstruido o deconstruído",
-    "cómo se escribe deconstruido real academia española",
-    "deconstruido por qué va sin acento",
-    "cómo se dice acento o tilde",
+    "torneo apertura 2010",
+    "torneo apertura 2010 goles",
+    "torneo apertura 2010 goles estudiantes",
+    "apertura 2010 quién hizo el gol estudiantes san lorenzo",
     "",
-    "voy a tener suerte",
-    "voy a tener suerte no es poesía",
-    "quién escribió voy a tener suerte",
-    "análisis voy a tener suerte"
+    "farmacia de turno",
+    "farmacia de turno hoy",
+    "farmacia de turno hoy osperyh",
+    "farmacia de turno hoy osperyh san justo"
   ]
+   
  
 };
 
