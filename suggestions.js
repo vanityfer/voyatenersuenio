@@ -253,7 +253,7 @@ let SUGGESTIONS = [
 “tb soñé que había una luciérnaga adentro de la casa”,
 “tengo lo que soñé en la punta de la lengua”,
 “todavía no soñé con ella”,
-“tres siestas soñé que sabía chino”,
+“tres siestas soñé que sabía chino”
   
 
 
