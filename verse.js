@@ -30,6 +30,16 @@ let VERSES = {
     "soñé que en luro y san juan había una frontera",
     "la cruzábamos de la mano",
     "soñé con un lugar mágico al que podía entrar desde mi casa"
+     "",
+    "soñé que juan ariel gomez me decía sos un embole en blanco y negro",
+    "dormí siete minutos y",
+    "soñé que bajaba once pisos por una escalera hecha con sogas",
+    "soñé que discutía   sobre si horacio quiroga era argentino o uruguayo", 
+      "",
+    "soñé ",
+    "soñé ",
+    "soñé ",
+    "soñé "
   ]
    
  
