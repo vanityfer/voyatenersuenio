@@ -6,10 +6,10 @@ let NAMES = [
 
 let VERSES = {
   "soñé": [
-    "clima en tandil",
-    "clima en tandil para el domingo",
-    "indumentaria pesca tandil",
-    "cuántos km tiene el dique de tandil",
+    "soñé que te daba una cachetada",
+    "soñé que no",
+    "me dormí un ratito y soñé",
+    "que te quebrabas las dos plantas de los pies",
     "",
     "créditos banco ciudad",
     "banco ciudad créditos tasa",
