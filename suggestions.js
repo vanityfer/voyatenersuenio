@@ -1,5 +1,4 @@
 let SUGGESTIONS = [
-
 “aww soñé con gatitos diminutos ahora que recuerdo”,
 “ayer soñé que me sacaba un dos”,
 “dormí una siesta de cuatro horas y soñé que mi madre me contaba que había estado presa”,
@@ -261,7 +260,7 @@ function streq(str1, str2) {
   return strcmp(str1, str2) === 0;
 }
 
-let MAX_RESULTS = 20;
+let MAX_RESULTS = 10;
 function get_suggestions(prefix) {
   let i = 0;
   let j = SUGGESTIONS.length;
