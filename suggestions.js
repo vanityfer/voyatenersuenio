@@ -11,7 +11,7 @@ let SUGGESTIONS = [
 “dormí siete minutos y soñé que tenía que bajar once pisos por una escalera hecha con sogas”, 
 “soñé que discutía sobre si Horacio Quiroga era argentino o uruguayo”, 
 “soñé que había una aplicación para ubicar contenedores en la ciudad”,
-“soñé con san cayetano. me hablaba pero tenía cuerpo de estatua”,
+“soñé con san cayetano me hablaba pero tenía cuerpo de estatua”,
 “soñé que tenía que rendir hispano III”,
 “soñé algo horrible”,
 “soñé que me tiraba de un acantilado”,
