@@ -34,12 +34,12 @@ let VERSES = {
     "soñé que juan ariel gomez me decía sos un embole en blanco y negro",
     "dormí siete minutos y",
     "soñé que bajaba once pisos por una escalera hecha con sogas",
-    "soñé que discutía   sobre si horacio quiroga era argentino o uruguayo", 
+    "soñé que había una aplicación para ubicar contenedores", 
       "",
-    "soñé ",
-    "soñé ",
-    "soñé ",
-    "soñé "
+    "soñé que discutía ",
+    "sobre si horacio quiroga era argentino o uruguayo ",
+    "soñé con san cayetano ",
+    "me hablaba pero tenía cuerpo de estatua ",
   ]
    
  
