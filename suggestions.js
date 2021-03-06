@@ -225,7 +225,7 @@ let SUGGESTIONS = [
 “soñé con florencia y con el abogado”,
 “soñé que caminaba de noche por una avenida que después se hacía ruta después se hacía puente y desembocaba en un barco. el barco me llevaba y yo pensaba uh pero si me lleva a otro país no tengo documento. de repente aparecía la otra Fernanda Mugica y yo le robaba el documento”,
 “soñé que me desvanecía, pero en un teatro”,
-“soñé que me encontraba a @conmigotampoco comprando en el Aragone”,
+“soñé que me encontraba a conmigotampoco comprando en el Aragone”,
 “dormí una siesta de cuatro horas y soñé que mi madre me contaba que había estado presa”,
 “soñé que iba al cine, estaba de espaldas a la pantalla, veía al público reírse. cuando miraba la pantalla, veía que lo que se proyectaba era el público riéndose y comiendo pochoclo”,
 “soñé que me decías que en lugar de apellido debería llevar un relincho”,
@@ -247,7 +247,7 @@ let SUGGESTIONS = [
 “soñé que le pedía a mi ex analista que me recomendara un analista para ir de oyente”,
 “soñé que tenía un motor en la mandíbula”
 “soñé con brea”    
-“soñé que no me podían operar porque me olvidaba de hacer el ayuno, tenía que explicarle al médico y me decía "ah un olvido freudiano"”,
+“soñé que no me podían operar porque me olvidaba de hacer el ayuno, tenía que explicarle al médico y me decía ah un olvido freudiano”,
 “soñé que Alberto me convidaba cerveza en un tupper”,
 “soñé que Néstor me estornudaba en la cara. Nestornudaba”,
 “soñé que masticaba mis propios dientes”,
