@@ -24,7 +24,7 @@ let VERSES = {
     "voy a tener suerte",
     "voy a tener suerte no es poesía",
     "quién escribió voy a tener suerte",
-    "análisis voy a tener suerte"
+    "análisis voy a tener suerte",
   ],
  
 };
