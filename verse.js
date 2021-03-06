@@ -6,10 +6,10 @@ let NAMES = [
 
 let VERSES = {
   "soñé": [
-    "película cuarto de libra con queso cómo se llama",
-    "tiempos violentos película completa",
-    "tiempos violentos película completa español latino",
-    "tiempos violentos película completa español latino gratis",
+   “soñé que te daba una cachetada”,
+   “soñé que no”,
+   “me dormí un ratito y soñé que te quebrabas las dos plantas de los pies”,
+   “soñé con el techo de villa silvina”,
     "",
     "búsquedas raras en google",
     "búsquedas graciosas en google",
