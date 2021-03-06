@@ -14,17 +14,17 @@ let VERSES = {
     "soñé con el techo de villa silvina",
     "soñé que tenía diócesis",
     "diócesis era una enfermedad",
-    "tengo diócesis decía",
+    "tengo diócesis decía    y lloraba",
     "",
-    "torneo apertura 2010",
-    "torneo apertura 2010 goles",
-    "torneo apertura 2010 goles estudiantes",
-    "apertura 2010 quién hizo el gol estudiantes san lorenzo",
+    "soñé con vos",
+    "pasabas con un globo naranja ",
+    "de los que flotan",
+    "parecías contento",
     "",
-    "farmacia de turno",
-    "farmacia de turno hoy",
-    "farmacia de turno hoy osperyh",
-    "farmacia de turno hoy osperyh san justo"
+    "soñé que me mudaba",
+    "soñé que el auto estaba lleno de papeles",
+    "que me tapaban la cara",
+    "soñé que el mar crecía y no había forma de subir al acantilado"
   ]
    
  
