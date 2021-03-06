@@ -1,5 +1,5 @@
 let SUGGESTIONS = [
-  “soñé que tenía diócesis”,
+“soñé que tenía diócesis”,
 “soñe con vos pasabas con un globo naranja de los que flotan parecías contento”, 
 “soñé que me mudaba”, 
 “soñé que el auto estaba lleno de papeles que me tapaban la cara”, 
@@ -18,7 +18,7 @@ let SUGGESTIONS = [
 “soñé que la tortuga era un ser expresivo que me quería estábamos en el patio”,
 “soñé que ponía Chubby Checker para bailar y alguien lo cambiaba y ponía una canción triste de Calamaro y se reía de mí”,
 “soñé que escribía un libro sobre la nieve”,
-“soñé que era el 2066 y caminaba sola en un supermercado Toledo”,
+“soñé que era el dos mil sesenta y seis y caminaba sola en un supermercado Toledo”,
 “soñé que corría desquiciadamente para recuperar un paraguas blanco”,
 “soñé que tomaba horas para trabajar en el baño de un boliche”,
 “soñé con ropa vintage”,
