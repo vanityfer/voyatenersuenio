@@ -73,6 +73,28 @@ function write(name, verses) {
   }
 }
 
+function writeVerse(name, prefix, suffix, verses) {
+  let elem = document.getElementById("searchtext");
+  clearElem(elem);
+  elem.appendChild(TEXT(prefix));
+  if (suffix === "") {
+    hideSuggestion();
+    setTimeout(
+      function() {
+        let elem = document.getElementById("stanzabox");
+        elem.appendChild(A(P1(TEXT(prefix)), 'https://www.google.com/search?q=' + prefix));
+        write(name, verses);
+      },
+      AFTER_VERSE_DELAY
+    );
+  } else {
+    displaySuggestion(prefix);
+    setTimeout(
+      function() { writeVerse(name, prefix + suffix[0], suffix.substr(1), verses); },
+      AFTER_LETTER_DELAY
+    );
+  }
+}
 
 
 function displaySuggestion(prefix) {
