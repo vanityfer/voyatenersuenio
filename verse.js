@@ -15,7 +15,6 @@ let VERSES = {
     "diócesis era una enfermedad",
     “soñe con vos",
     "pasabas con un globo naranja de los que flotan",
-    "parecías contento”,   
     "",
     "cómo se escribe deconstruido o deconstruído",
     "cómo se escribe deconstruido real academia española",
