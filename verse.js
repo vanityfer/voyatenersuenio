@@ -14,7 +14,7 @@ let VERSES = {
     "soñé con el techo de villa silvina",
     "soñé que tenía diócesis",
     "diócesis era una enfermedad",
-    "tengo diócesis decía    y lloraba",
+    "tengo diócesis decía                  y lloraba",
     "",
     "soñé con vos",
     "pasabas con un globo naranja ",
