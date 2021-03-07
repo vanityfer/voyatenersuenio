@@ -53,7 +53,7 @@ let VERSES = {
     "estábamos en el patio",
      "",
      "soñé que escribía un libro sobre la nieve",
-     ""
+     "",
      "soñé que ponía chubby checker para bailar",
     "alguien lo cambiaba y ponía una canción triste de calamaro y se reía de mí",
      "",
