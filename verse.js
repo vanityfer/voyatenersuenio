@@ -30,7 +30,7 @@ let VERSES = {
     "soñé que flavia y rodrigo me saludaban desde un auto",
     "soñé que en luro y san juan había una frontera",
     "cruzábamos de la mano",
-     ""
+     "",
     "soñé con un lugar mágico al que se podía entrar desde mi casa",
      "",
     "soñé que juan ariel gomez me decía sos un embole en blanco y negro",
@@ -54,9 +54,9 @@ let VERSES = {
      "",
      "soñé que escribía un libro sobre la nieve",
      ""
-     "soñé que ponía chubby checker para bailar  ",
-    "alguien lo cambiaba y ponía una canción triste de calamaro y se reía de mí ",
-     ""
+     "soñé que ponía chubby checker para bailar",
+    "alguien lo cambiaba y ponía una canción triste de calamaro y se reía de mí",
+     "",
     "soñé que era el 2066 ",
     "caminaba sola en un supermercado toledo",
       "",
@@ -68,10 +68,16 @@ let VERSES = {
      "soñé con un lobo marino re lindo", 
      "soñé con sartre pero no puedo recordar qué",
      "soñé que mario ortiz me decía", 
-     "el año que viene van a usarse los aparatos sin dientes",
+     "el año que viene se van a usar los aparatos sin dientes",
      "",
      "soñé con betty draper",
-     "soñé con telas y con 
+     "soñé con telas y con roland barthes",
+     "", 
+     "soñé un pájaro azul", 
+     "soñé que no existían las pocas personas que realmente quiero", 
+     "soñé", 
+     "que nos atacaban policías desde autos voladores", 
+     "", 
      
   ]
    
