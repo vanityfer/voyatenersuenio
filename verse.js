@@ -2,7 +2,7 @@
 let NAMES = [
    
   "soñé",
-  "soñé", 
+  "soñé ", 
   "soñé", 
   "soñé", 
   "soñé", 
@@ -178,7 +178,7 @@ let VERSES = {
    
    
   ],
-   "soñé": [
+   "soñé ": [
    "culo gordo"
    
    ]
