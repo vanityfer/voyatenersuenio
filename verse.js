@@ -299,7 +299,7 @@ let VERSES = {
      "soñé toda la noche cosas horribles",
      "soñé con la telenovela errante",
      "soñé con Laura Wittner",
-     "soñé que presenciaba el parto de Frankenstein"
+     "soñé que presenciaba el parto de Frankenstein",
      "soñé con mamá, estaba tan nítida",
      "",
      "soñé que alguien con mi mismo nombre se moría por no poder cumplir un pacto con el diablo",
