@@ -121,38 +121,12 @@ let VERSES = {
      "", 
      "soñé que militaba en un mar en Rusia", 
      "", 
-     "soñé que salía a la calle con guantes de lavar como prenda de vestir", 
-     "soñé que cogíamos",                                
+     "soñé que salía a la calle con guantes de lavar como prenda de vestir",                         
      "soñé X y se me enrareció la vida", 
      "soñé que iba a comprar comida para llevar a un restaurant bajo el agua", 
      "soñé que me baleaban",
-     "", 
-     "soñé con un superhéroe", 
-     "soñé que el cielo estaba contaminado y había latas gigantes flotando tipo dibujo animado", 
-     "soñé que me teñía de rosa", 
-     "soñé con un piso 17 porque soy una desgraciada", 
-     "todavía no soñé con ella",
-     "", 
-     "soñé que me casaba con mi némesis por compromiso", 
-     "soñé que trabajaba para Scioli", 
-     "soñé que eras yihadista", 
-     "soñé con brazos cortados y gelatina de droga con forma de dientes", 
-     "soñé con la copa menstrual", 
-     "", 
-     "soñé que me suicidaba en otro idioma", 
-     "", 
-     "soñé con un velorio chino", 
-     "soñé la parte que me dormí en la película de jodorowsky y ahora entiendo por qué jaime tiene las manos así", 
-     "soñé que éramos amigas", 
-     "soñé con el estado. era como una casa en la que me sentía bien", 
-     "soñé que manejaba en una oscuridad absoluta", 
-     "", 
-     "soñé que compraba con €€€", 
-     "soñé con san la muerte", 
-     "soñé que salvaba a gente de un incendio y no me agradecían. se me quemaba la bufanda", 
-     "soñé que no podía expresar el principio de expresabilidad", 
-     "soñé con brianna. era el último día que la veía y me daba pena. estábamos en la residencia"
-
+     "" 
+    
          
   ], 
   "    soñé": [
@@ -375,7 +349,33 @@ let VERSES = {
   
   ], 
   "soñé    ": [
-     "9"
+      "soñé que cogíamos",  
+     "soñé con un superhéroe", 
+     "soñé que el cielo estaba contaminado y había latas gigantes flotando tipo dibujo animado", 
+     "soñé que me teñía de rosa", 
+     "soñé con un piso 17 porque soy una desgraciada", 
+     "todavía no soñé con ella",
+     "", 
+     "soñé que me casaba con mi némesis por compromiso", 
+     "soñé que trabajaba para Scioli", 
+     "soñé que eras yihadista", 
+     "soñé con brazos cortados y gelatina de droga con forma de dientes", 
+     "soñé con la copa menstrual", 
+     "", 
+     "soñé que me suicidaba en otro idioma", 
+     "", 
+     "soñé con un velorio chino", 
+     "soñé la parte que me dormí en la película de jodorowsky y ahora entiendo por qué jaime tiene las manos así", 
+     "soñé que éramos amigas", 
+     "soñé con el estado. era como una casa en la que me sentía bien", 
+     "soñé que manejaba en una oscuridad absoluta", 
+     "", 
+     "soñé que compraba con €€€", 
+     "soñé con san la muerte", 
+     "soñé que salvaba a gente de un incendio y no me agradecían. se me quemaba la bufanda", 
+     "soñé que no podía expresar el principio de expresabilidad", 
+     "soñé con brianna. era el último día que la veía y me daba pena. estábamos en la residencia"
+
   ], 
   "soñé   ":[
      "10"
