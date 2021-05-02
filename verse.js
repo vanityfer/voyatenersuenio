@@ -11,12 +11,7 @@ let NAMES = [
   "  soñé  ", 
   "  soñé   ", 
   "   soñé  ",
-  "   soñé   ",
-  "   soñé    ", 
-  "    soñé   ", 
-  "    soñé    ", 
-  "    soñé     ",
-  "     soñé    ", 
+   
   
   ];
 
@@ -204,25 +199,7 @@ let VERSES = {
   ], 
   "   soñé  ":[
      "culo gordo"
-  ],
-  "   soñé   ":[
-     "culo gordo"
-  ],
-  "   soñé    ":[
-     "culo gordo"
-  ], 
-  "    soñé   ":[
-     "culo gordo"
-  ], 
-  "    soñé    ":[
-     "culo gordo"
-  ], 
-  "    soñé     ":[
-     "culo gordo"
-  ],
-  "     soñé    ":[
-     "culo gordo"
-  ]  
+  ]
    
    
    
