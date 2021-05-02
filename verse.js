@@ -49,7 +49,7 @@ let VERSES = {
     "dormí siete minutos y soñé",
     "que bajaba once pisos por una escalera hecha con sogas",
     "soñé que había una aplicación para ubicar contenedores", 
-      "",
+     "",
     "soñé que discutía ",
     "sobre si horacio quiroga era argentino o uruguayo ",
     "soñé con san cayetano ",
