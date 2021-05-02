@@ -7,10 +7,12 @@ body {
 }
 .stanzabox {
   width: 80%;
-  margin: 0 auto;
+  #margin: 0 auto;
   font-weight: bold;
-  text-align: right;
-  padding-top: .5em;
+  #text-align: right;
+  #padding-top: .5em;
+  top: random(1000) + px
+  left: random(1000) + px
 }
 .menu {
   width: 80%;
