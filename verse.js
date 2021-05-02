@@ -103,7 +103,14 @@ let VERSES = {
      "",
      "tengo lo que soñé en la punta de la lengua",
      "",
-     "soñé que el árbol de la puerta de casa era un limonero",
+     
+ 
+
+   
+   
+  ],
+   "  soñé": [
+   "soñé que el árbol de la puerta de casa era un limonero",
      "soñé que si cambiaba una letra de mi nombre me transformaba en otra persona y vos no me querías",
      "aww soñé con gatitos diminutos ahora que recuerdo",
      "soñé que tenía una pantera que era buena solamente conmigo",
@@ -159,7 +166,10 @@ let VERSES = {
      "", 
      "soñé que no podía hablar y me sangraba mucho la nariz", 
      "soñé que me encontraba con mamá", 
-     "soñé que estaba borracha", 
+     
+  ],
+  "   soñé": [
+      "soñé que estaba borracha", 
      "soñé que me hundía", 
      "soñé que nadie me quería y me enojaba", 
      "soñé con la ciénaga", 
@@ -169,17 +179,8 @@ let VERSES = {
      "soñé que le preguntaba a mamá de dónde había sacado cada una de sus plantas", 
      "soñé con el curso de lingüística general, con lo que dice el curso de lingüística general", 
      "soñé que con María Rosario teníamos que ir a Chapadmalal y nos tomábamos un colectivo a Polonia", 
-     ""
- 
-
-   
-   
-  ],
-   "  soñé": [
-   "2"
-  ],
-  "   soñé": [
-      "3"
+     "", 
+     
   ], 
   "    soñé": [
      "4"
