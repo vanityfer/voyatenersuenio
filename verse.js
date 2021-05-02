@@ -165,7 +165,7 @@ let VERSES = {
      "soñé con mi ex psicólogo", 
      "", 
      "soñé que no podía hablar y me sangraba mucho la nariz", 
-     "soñé que me encontraba con mamá", 
+     "soñé que me encontraba con mamá"
      
   ],
   "   soñé": [
@@ -217,7 +217,7 @@ let VERSES = {
      "soñé con san la muerte", 
      "soñé que salvaba a gente de un incendio y no me agradecían. se me quemaba la bufanda", 
      "soñé que no podía expresar el principio de expresabilidad", 
-     "soñé con brianna. era el último día que la veía y me daba pena. estábamos en la residencia",
+     "soñé con brianna. era el último día que la veía y me daba pena. estábamos en la residencia"
 
          
   ], 
@@ -274,7 +274,7 @@ let VERSES = {
      "soñé que tenía la presión alta", 
      "soñé que había nutella blanco", 
      "soñé con la wii", 
-     "soñé que robaba monedas de la fuente de una ciudad de juguete",
+     "soñé que robaba monedas de la fuente de una ciudad de juguete"
 
   ], 
   "     soñé": [
