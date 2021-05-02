@@ -2,6 +2,7 @@
 let NAMES = [
    
   "soñé",
+  "soñé",
   ];
 
 let VERSES = {
