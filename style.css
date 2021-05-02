@@ -1,5 +1,6 @@
 body {
   font-size: 20pt;
+  overflow-y: scroll;
 }
 .main {
   font-family: "Overpass Mono" monospace;
