@@ -197,7 +197,7 @@ let VERSES = {
      "soñé que el cielo estaba contaminado y había latas gigantes flotando tipo dibujo animado", 
      "soñé que me teñía de rosa", 
      "soñé con un piso 17 porque soy una desgraciada", 
-     "todavía no soñé con ella"
+     "todavía no soñé con ella",
      "", 
      "soñé que me casaba con mi némesis por compromiso", 
      "soñé que trabajaba para Scioli", 
