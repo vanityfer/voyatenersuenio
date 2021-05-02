@@ -169,7 +169,7 @@ let VERSES = {
      "soñé que le preguntaba a mamá de dónde había sacado cada una de sus plantas", 
      "soñé con el curso de lingüística general, con lo que dice el curso de lingüística general", 
      "soñé que con María Rosario teníamos que ir a Chapadmalal y nos tomábamos un colectivo a Polonia", 
-     "", 
+     ""
  
 
    
@@ -178,7 +178,7 @@ let VERSES = {
    "  soñé": [
    "2"
   ],
-  "   soñé" [
+  "   soñé": [
       "3"
   ], 
   "    soñé": [
