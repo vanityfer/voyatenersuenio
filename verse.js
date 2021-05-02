@@ -278,7 +278,56 @@ let VERSES = {
 
   ], 
   "     soñé": [
-     "5"
+     "soñé con la virgen maría",
+     "soñé que no me perdía en barajas",
+     "soñé con Joaquín y su querida incomprensión", 
+     "soñé que desataba un nudo enorme",
+     "",
+     "soñé que un médico que me gustaba me invitaba a salir en el consultorio",
+     "soñé que volvía a casa en un trineo comandado por caniches gigantes", 
+     "soñé que me llamaba Nicolás",
+     "soñé un mar muy transparente", 
+     "",
+     "soñé que te morías", 
+     "", 
+     "soñé que nadie venía a mi cumpleaños",
+     "soñé que me desaprobaban el final de hispano I porque iba a rendir con una heladerita de playa",
+     "soñé que hablaba con Arlt",
+     "soñé que hacía surf en una escollera", 
+     "soñé que me había vuelto loca y por eso no iba a trabajar",
+     "también soñé que era 1999 y le anteponíamos un 4 a los números de teléfono",
+     "soñé toda la noche cosas horribles",
+     "soñé con la telenovela errante",
+     "soñé con Laura Wittner",
+     "soñé que presenciaba el parto de Frankenstein"
+     "soñé con mamá, estaba tan nítida",
+     "",
+     "",
+     "soñé que alguien con mi mismo nombre se moría por no poder cumplir un pacto con el diablo",
+     "soñé con boy olmi",
+     "soñé que alguien decía 'y si no somos inmortales porque no tomamos las decisiones correctas?'",
+     "",
+     "soñé que con @lumpenar comprábamos calabazas en Toledo e intentábamos cambiar las etiquetas del precio por otras más baratas",
+     "las notificaciones de facebook están verdes o lo soñé?",
+     "soñé que iba con la gata a una cervecería y teníamos toda una conversación",
+     "soñé que hablaba con las pussy riot y que una ráfaga de viento me partía el cuerpo en dos",
+     "soñé con un animal perfecto",
+     "",
+     "soñé con un asesino",
+     "soñé toda la noche con una señora +60",
+     "soñé con la casa X",
+     "soñé con mi chakra raíz",
+     "siempre soñé con trabajar en Emirates",
+     "soñé que estaba toda golpeada",
+     "soñé que mi padre me regalaba una bolsa de consorcio",
+     "el otro día soñé que me leían los pies",
+     "soñé que habían puesto transporte público en el mar, un tren que te llevaba de un lado a otro de la ciudad por el agua",
+     "soñé que me encarcelaban por meter una moneda de otro país en una máquina de gaseosas",
+     "soñé que me diagnosticaban fatiga crónica"
+
+     
+     
+     
   ], 
    "      soñé": [
      "6"
