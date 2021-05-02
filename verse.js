@@ -182,32 +182,46 @@ let VERSES = {
    "culo gordo"
   ],
    " soñé": [
+      "culo gordo"
   ], 
   "soñé  ": [
+     "culo gordo"
   ], 
   "  soñé": [
+     "culo gordo"
   ], 
   " soñé  ": [
+     "culo gordo"
   ],
   "  soñé ": [
+     "culo gordo"
   ], 
   "  soñé  ": [
+     "culo gordo"
   ], 
   "  soñé   ": [
+     "culo gordo"
   ], 
   "   soñé  ":[
+     "culo gordo"
   ],
   "   soñé   ":[
+     "culo gordo"
   ],
   "   soñé    ":[
+     "culo gordo"
   ], 
   "    soñé   ":[
+     "culo gordo"
   ], 
   "    soñé    ":[
+     "culo gordo"
   ], 
   "    soñé     ":[
+     "culo gordo"
   ],
   "     soñé    ":[
+     "culo gordo"
   ]  
    
    
