@@ -41,7 +41,7 @@ body {
   margin: 0 auto;
 }
 .searchtext {
-  width: 100%;
+  width: 100vw;
   margin: 0 auto;
 }
 .suggestionbox {
