@@ -302,7 +302,6 @@ let VERSES = {
      "soñé que presenciaba el parto de Frankenstein"
      "soñé con mamá, estaba tan nítida",
      "",
-     "",
      "soñé que alguien con mi mismo nombre se moría por no poder cumplir un pacto con el diablo",
      "soñé con boy olmi",
      "soñé que alguien decía 'y si no somos inmortales porque no tomamos las decisiones correctas?'",
