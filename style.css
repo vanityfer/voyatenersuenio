@@ -1,11 +1,12 @@
 body {
   font-size: 20pt;
   overflow-y: scroll;
+  background: red;
 }
 .main {
   font-family: "Overpass Mono" monospace;
   line-height: .8;
-  background: red;
+  
 }
 .stanzabox {
   width: 100%;
