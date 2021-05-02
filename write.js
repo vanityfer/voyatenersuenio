@@ -12,7 +12,7 @@ function displayMenu(selected, enabled) {
   clearElem(elem);
 
   let table = document.createElement("table");
-  let row_size = 10;
+  let row_size = 4;
   for (let i = 0; i < NAMES.length; i += row_size) {
     let row = document.createElement("tr");
     for (let j = 0; j < row_size; j++) {
