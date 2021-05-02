@@ -162,25 +162,15 @@ let VERSES = {
      "soñé con el curso de lingüística general, con lo que dice el curso de lingüística general", 
      "soñé que con María Rosario teníamos que ir a Chapadmalal y nos tomábamos un colectivo a Polonia", 
      "", 
-     
+ 
 
-
-
-
-     
-
-
-
-
-
-
-
-
-     
-     
-     
-  ]
    
+   
+  ]
+   "soñé": [
+   "culo gordo"
+   
+   ]
  
 };
 
