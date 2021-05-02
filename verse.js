@@ -99,31 +99,8 @@ let VERSES = {
      "en la siesta soñé que tenía que cuidar a una perrita llamada Mulva", 
      "soñé que buceaba en un bosque tipo Twin Peaks y me daba miedo", 
      "soñé que María levantaba vuelo con un paracaídas y volaba re feliz", 
-     "", 
-     "soñé que elegía mal", 
-     "", 
-     "soñé que vendían droga en El Cartucho Feliz", 
-     "soñé que abrazaba una nube en un edificio muy alto", 
-     "no sé si soñé que me llegaba un mail o de verdad llegó", 
-     "soñé que le decía a alguien suerte, éxitos, lo que haga falta", 
-     "",
-     "después soñé algo que me mató para siempre", 
-     "", 
-     "soñé que había una combinación de movimientos del cuerpo con la que te morías", 
-     "soñé que un montón de zombies judíos venían a mar del plata", 
-     "soñé que construíamos una casa en el mar, abajo del agua. echaba raíces y teníamos que declararla en afip", 
-     "soñé con mi mamá y con otra persona llamada igual que ella", 
-     "", 
-     "soñé una temporada nueva y entera de Breaking Bad. Diego era walter white", 
-     "soñé que buscaba en google y los resultados no eran personalizados. era muy ominoso", 
-     "soñé que elegíamos lugares a donde ir en un mapa lleno de cadenas montañosas", 
-     "soñé que un bebé me decía 'me quiero morir’", 
-     "",
-     "soñé con mi ex psicólogo", 
-     "", 
-     "soñé que no podía hablar y me sangraba mucho la nariz", 
-     "soñé que me encontraba con mamá"
-     
+     ""
+    
   ],
   "   soñé": [
       "soñé que estaba borracha", 
@@ -373,7 +350,29 @@ let VERSES = {
 
   ], 
   "soñé     ": [
-     "8"
+     "soñé que elegía mal", 
+     "soñé que vendían droga en El Cartucho Feliz",
+     "soñé que abrazaba una nube en un edificio muy alto", 
+     "no sé si soñé que me llegaba un mail o de verdad llegó", 
+     "soñé que le decía a alguien suerte, éxitos, lo que haga falta", 
+     "",
+     "después soñé algo que me mató para siempre", 
+     "", 
+     "soñé que había una combinación de movimientos del cuerpo con la que te morías", 
+     "soñé que un montón de zombies judíos venían a mar del plata", 
+     "soñé que construíamos una casa en el mar, abajo del agua. echaba raíces y teníamos que declararla en afip", 
+     "soñé con mi mamá y con otra persona llamada igual que ella", 
+     "", 
+     "soñé una temporada nueva y entera de Breaking Bad. Diego era walter white", 
+     "soñé que buscaba en google y los resultados no eran personalizados. era muy ominoso", 
+     "soñé que elegíamos lugares a donde ir en un mapa lleno de cadenas montañosas", 
+     "soñé que un bebé me decía 'me quiero morir’", 
+     "",
+     "soñé con mi ex psicólogo", 
+     "", 
+     "soñé que no podía hablar y me sangraba mucho la nariz", 
+     "soñé que me encontraba con mamá"
+  
   ], 
   "soñé    ": [
      "9"
