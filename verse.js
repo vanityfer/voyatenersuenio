@@ -188,7 +188,7 @@ let VERSES = {
      "soñé que militaba en un mar en Rusia", 
      "", 
      "soñé que salía a la calle con guantes de lavar como prenda de vestir", 
-     "soñé que cogíamos",                                 ", 
+     "soñé que cogíamos",                                
      "soñé X y se me enrareció la vida", 
      "soñé que iba a comprar comida para llevar a un restaurant bajo el agua", 
      "soñé que me baleaban",
