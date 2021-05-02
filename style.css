@@ -19,8 +19,7 @@ body {
   margin-bottom: 10px;
   line-height: 1.5;
   text-align: justify;
-  top: random(1000) + px
-  left: random(1000) + px
+  float: left; 
 }
 .menu table {
   width: 100%;
