@@ -178,32 +178,7 @@ let VERSES = {
      "soñé toda la noche cosas horribles",
      "soñé con la telenovela errante",
      "soñé con Laura Wittner",
-     "soñé que presenciaba el parto de Frankenstein",
-     "soñé con mamá, estaba tan nítida",
-     "",
-     "soñé que alguien con mi mismo nombre se moría por no poder cumplir un pacto con el diablo",
-     "soñé con boy olmi",
-     "soñé que alguien decía 'y si no somos inmortales porque no tomamos las decisiones correctas?'",
-     "",
-     "soñé que con @lumpenar comprábamos calabazas en Toledo e intentábamos cambiar las etiquetas del precio por otras más baratas",
-     "las notificaciones de facebook están verdes o lo soñé?",
-     "soñé que iba con la gata a una cervecería y teníamos toda una conversación",
-     "soñé que hablaba con las pussy riot y que una ráfaga de viento me partía el cuerpo en dos",
-     "soñé con un animal perfecto",
-     "",
-     "soñé con un asesino",
-     "soñé toda la noche con una señora +60",
-     "soñé con la casa X",
-     "soñé con mi chakra raíz",
-     "siempre soñé con trabajar en Emirates",
-     "soñé que estaba toda golpeada",
-     "soñé que mi padre me regalaba una bolsa de consorcio",
-     "el otro día soñé que me leían los pies",
-     "soñé que habían puesto transporte público en el mar, un tren que te llevaba de un lado a otro de la ciudad por el agua",
-     "soñé que me encarcelaban por meter una moneda de otro país en una máquina de gaseosas",
-     "soñé que me diagnosticaban fatiga crónica"
-
-     
+     "soñé que presenciaba el parto de Frankenstein"
      
      
   ], 
@@ -225,31 +200,8 @@ let VERSES = {
       "soñé que iba al Anamora con Fabián Iriarte",
       "tb soñé que había una luciérnaga adentro de la casa",
       "soñé que comía arena y me preguntaba si me haría mal a los dientes",
-      "soñé que Rocío me decía 'los gatos negros no perdonan' y Rocío soñó con un gato negro y ahora me manda foto de un gato negro",
-      "soñé con un dinosaurio lila",
-      "",
-      "sueño recurrente en el que un tipo me tiene encerrada e intento escapar, pienso tengo las llaves, corro, cierro la puerta y lo encierro a él. despierto con el corazón a recontra mil",
-      "soñé que le daba un abrazo a mi prima",
-      "soñé que mi padre me pasaba por al lado como un refilón, una especie de meta-sueño",
-      "soñé que iba a la peatonal sin barbijo y me daba cuenta y todo se ponía cámara lenta, había policías por todas partes",
-      "soñé que pagaba con $5",
-      "",
-      "soñé que iba a Toledo y compraba yerba uruguaya para Diego y papel de fumar de los rugrats para Flavia",
-      "soñé que alguien en videollamada buscaba sus anteojos y yo los encontraba en mi casa",
-      "soñé que ponía unas fichas en el casino y salían unos pájaros que hacían una coreografía",
-      "soñé que la gata jugaba en la ventana, a través del vidrio, con un gato igual a ella",
-      "soñé que le pedía a mi ex analista que me recomendara un analista para ir de oyente",
-      "soñé que descubría que siempre que aparecía una perra en literatura era la misma perra y decía 'guau, esta perra ya había aparecido en un cuento de Lugones y está acá, qué loco'",
-      "soñé que tenía un motor en la mandíbula",
-      "soñé con brea",
-      "",
-      "soñé que no me podían operar porque me olvidaba de hacer el ayuno, tenía que explicarle al médico y me decía 'ah un olvido freudiano'",
-      "soñé que Alberto me convidaba cerveza en un tupper",
-      "soñé que Néstor me estornudaba en la cara. Nestornudaba",
-      "soñé que masticaba mis propios dientes",
-      "soñé que le escribía un mensaje a alguien en la parte de atrás de una porción de pizza"
-
-
+      "soñé que Rocío me decía 'los gatos negros no perdonan' y Rocío soñó con un gato negro y ahora me manda foto de un gato negro"
+    
   ],
   "soñé      ": [
      
@@ -380,10 +332,55 @@ let VERSES = {
 
   ],
   "soñé  ":[
-     "11"
+     "soñé con mamá, estaba tan nítida",
+     "soñé que alguien con mi mismo nombre se moría por no poder cumplir un pacto con el diablo",
+     "soñé con boy olmi",
+     "soñé que alguien decía 'y si no somos inmortales porque no tomamos las decisiones correctas?'",
+     "",
+     "soñé que con @lumpenar comprábamos calabazas en Toledo e intentábamos cambiar las etiquetas del precio por otras más baratas",
+     "las notificaciones de facebook están verdes o lo soñé?",
+     "soñé que iba con la gata a una cervecería y teníamos toda una conversación",
+     "soñé que hablaba con las pussy riot y que una ráfaga de viento me partía el cuerpo en dos",
+     "soñé con un animal perfecto",
+     "",
+     "soñé con un asesino",
+     "soñé toda la noche con una señora +60",
+     "soñé con la casa X",
+     "soñé con mi chakra raíz",
+     "siempre soñé con trabajar en Emirates",
+     "soñé que estaba toda golpeada",
+     "soñé que mi padre me regalaba una bolsa de consorcio",
+     "el otro día soñé que me leían los pies",
+     "soñé que habían puesto transporte público en el mar, un tren que te llevaba de un lado a otro de la ciudad por el agua",
+     "soñé que me encarcelaban por meter una moneda de otro país en una máquina de gaseosas",
+     "soñé que me diagnosticaban fatiga crónica"
+
+        
   ],
   "soñé ":[
-     "12"
+       "soñé con un dinosaurio lila",
+      "sueño recurrente en el que un tipo me tiene encerrada e intento escapar",
+      "soñé que le daba un abrazo a mi prima",
+      "soñé que mi padre me pasaba por al lado como un refilón, una especie de meta-sueño",
+      "soñé que iba a la peatonal sin barbijo y me daba cuenta y todo se ponía cámara lenta, había policías por todas partes",
+      "soñé que pagaba con $5",
+      "",
+      "soñé que iba a Toledo y compraba yerba uruguaya para Diego y papel de fumar de los rugrats para Flavia",
+      "soñé que alguien en videollamada buscaba sus anteojos y yo los encontraba en mi casa",
+      "soñé que ponía unas fichas en el casino y salían unos pájaros que hacían una coreografía",
+      "soñé que la gata jugaba en la ventana, a través del vidrio, con un gato igual a ella",
+      "soñé que le pedía a mi ex analista que me recomendara un analista para ir de oyente",
+      "soñé que descubría que siempre que aparecía una perra en literatura era la misma perra y decía 'guau, esta perra ya había aparecido en un cuento de Lugones y está acá, qué loco'",
+      "soñé que tenía un motor en la mandíbula",
+      "soñé con brea",
+      "",
+      "soñé que no me podían operar porque me olvidaba de hacer el ayuno, tenía que explicarle al médico y me decía 'ah un olvido freudiano'",
+      "soñé que Alberto me convidaba cerveza en un tupper",
+      "soñé que Néstor me estornudaba en la cara. Nestornudaba",
+      "soñé que masticaba mis propios dientes",
+      "soñé que le escribía un mensaje a alguien en la parte de atrás de una porción de pizza"
+
+
   ]
     
    
