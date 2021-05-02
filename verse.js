@@ -112,7 +112,7 @@ let VERSES = {
      "", 
      "soñé que volaba una sombrilla en la playa y se me clavaba en el dedo gordo del pie", 
      "soñé que estaba en la orilla y el mar me llevaba", 
-     "soñé que me hacía amiga de un cura remisero. me llevaba a bailar a Chocolate"
+     "soñé que me hacía amiga de un cura remisero. me llevaba a bailar a Chocolate",
      "", 
      "soñé que el hoy era un lugar a donde venían a parar todos los perros perdidos", 
      "", 
