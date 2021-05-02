@@ -47,7 +47,7 @@ body {
 .suggestionbox {
   border: solid lightgray 1px;
   border-radius: 10px;
-  width: 80%;
+  width: 100%;
   margin: 0 0;
   padding-left: .5em;
   background: white;
