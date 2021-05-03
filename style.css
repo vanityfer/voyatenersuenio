@@ -6,6 +6,7 @@ body {
 }
 .main {
   font-family: "Overpass Mono" monospace;
+  color: yellow;
   line-height: .8;
   
 }
