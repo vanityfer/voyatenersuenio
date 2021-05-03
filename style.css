@@ -13,7 +13,7 @@ body {
 .stanzabox {
   width: 80%;
   #margin: 0 auto;
-  font-weight: bolder;
+  font-weight: bold;
   text-align: right;
   padding-top: .5em;
   color: black;
@@ -48,6 +48,7 @@ body {
 .searchtext {
   width: 100%;
   margin: 0 auto;
+  color:black;
 }
 .suggestionbox {
   /border: solid lightgray 1px;*/
