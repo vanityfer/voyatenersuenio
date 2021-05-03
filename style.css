@@ -2,7 +2,7 @@ body {
   font-size: 20pt;
   overflow-y: scroll;
   background-image: url("llanura.jpg");
-  background-size: contain;
+  background-size: 100%;
 }
 .main {
   font-family: "Overpass Mono" monospace;
