@@ -6,7 +6,6 @@ body {
 }
 .main {
   font-family: "Overpass Mono" monospace;
-  color: yellow;
   line-height: .8;
   
 }
@@ -16,6 +15,7 @@ body {
   font-weight: bold;
   text-align: right;
   padding-top: .5em;
+  color: orange;
  
 }
 .menu {
