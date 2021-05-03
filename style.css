@@ -55,7 +55,7 @@ body {
   width: 80%;
   margin: 0 0;
   padding-left: .5em;
-  background: white;
+  background: transparent;
   opacity: 0.5;
 }
 .suggestion {
