@@ -1,7 +1,7 @@
 
 let NAMES = [
    
-  "    soñé",
+  " soñé",
   "  soñé", 
   "   soñé", 
   "    soñé", 
@@ -22,7 +22,7 @@ let NAMES = [
   ];
 
 let VERSES = {
-  "    soñé": [
+  " soñé": [
     "soñé que te daba una cachetada",
     "soñé que no",
     "me dormí un ratito y soñé",
