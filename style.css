@@ -7,6 +7,7 @@ body {
 .main {
   font-family: "Overpass Mono" monospace;
   line-height: .8;
+  color:black;
   
 }
 .stanzabox {
@@ -15,7 +16,7 @@ body {
   font-weight: bold;
   text-align: right;
   padding-top: .5em;
-  color: orange;
+  color: black;
  
 }
 .menu {
