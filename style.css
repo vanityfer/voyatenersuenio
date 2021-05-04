@@ -33,7 +33,7 @@ body {
 .menu table {
   width: 100%;
   text-align: center;
-  color: yellow;
+  background: white; 
 }
 .searchsuggestionbox {
   width: 80%;
