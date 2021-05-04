@@ -1,8 +1,10 @@
 body {
   font-size: 20pt;
+  font-color: yellow;
   overflow-y: scroll;
   background-image: url("llanura.jpg");
   background-size: cover;
+  
   
 }
 .main {
