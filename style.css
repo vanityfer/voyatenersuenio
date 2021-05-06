@@ -74,7 +74,10 @@ a {
   text-decoration: none;
   color: #000000; 
 }
-
+.gblue { color: #4285f4; }
+.gred { color: #db4437; }
+.gyellow { color: #f4b400; }
+.ggreen { color: #0f9d58; }
 
 .selected {
   font-weight: bold;
