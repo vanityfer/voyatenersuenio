@@ -3,6 +3,7 @@ body {
   overflow-y: scroll;
   background-image: url("llanu.jpg");
   background-size: cover;
+  font-weight: bold;
   
   
 }
@@ -10,6 +11,8 @@ body {
   font-family: "Overpass Mono" monospace;
   line-height: .8;
   color:rgb(146,131,190);
+  font-weight: bold;
+  
   
   
 }
