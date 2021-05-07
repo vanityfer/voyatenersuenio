@@ -4930,7 +4930,7 @@ let SUGGESTIONS = [
   "entradas para iron maiden argentina 2019 ticketek",
   "en tu cuerpo remix",
   "en tu cuerpo remix letra",
-  "en una máquina cuándo se obtiene ventaja mecánica"
+  "en una máquina cuándo se obtiene ventaja mecánica",
   "en vivo",
   "e pick",
   "epicteto quevedo",
