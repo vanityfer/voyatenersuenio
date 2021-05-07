@@ -327,7 +327,6 @@ let VERSES = {
      "soñé que me suicidaba en otro idioma", 
      "", 
      "soñé con un velorio chino", 
-     "soñé la parte que me dormí en la película de jodorowsky y ahora entiendo por qué jaime tiene las manos así", 
      "soñé que éramos amigas", 
      "soñé con el estado. era como una casa en la que me sentía bien", 
      "soñé que manejaba en una oscuridad absoluta", 
@@ -339,6 +338,7 @@ let VERSES = {
      "soñé que no podía expresar el principio de expresabilidad", 
      "soñé con brianna. era el último día que la veía y",
      "me daba pena. estábamos en la residencia"
+      "soñé la parte que me dormí en la película de jodorowsky y ahora entiendo por qué jaime tiene las manos así", 
 
   ], 
   "soñé   ":[
