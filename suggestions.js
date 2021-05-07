@@ -2318,7 +2318,7 @@ let SUGGESTIONS = [
   "como hacer verduras al horno",
   "como hacer verduras al vapor",
   "como hacer verduras salteadas",
-  "como hacer vestidos",
+  "me dormí una siesta",
   "como hacer vestidos para muñecas",
   "como hacer videos animados",
   "como hacer videos con fotos",
