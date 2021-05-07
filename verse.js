@@ -408,7 +408,6 @@ let VERSES = {
   ],
   "soñé ":[
        "soñé con un dinosaurio lila",
-      "soñé el sueño recurrente en el que un tipo me tiene encerrada e intento escapar",
       "soñé que le daba un abrazo a mi prima",
       "soñé que mi padre me pasaba por al lado como un refilón", 
       "soñé que iba a la peatonal sin barbijo", 
@@ -416,6 +415,7 @@ let VERSES = {
      "y todo se ponía cámara lenta", 
      "había policías por todas partes",
       "soñé que pagaba con $5",
+     "soñé el sueño recurrente en el que un tipo me tiene encerrada e intento escapar",
       "",
       "soñé que iba a Toledo y compraba yerba uruguaya para Diego", 
       "soñé que alguien en videollamada buscaba sus anteojos", 
