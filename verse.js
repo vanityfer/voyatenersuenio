@@ -337,7 +337,7 @@ let VERSES = {
      "se me quemaba la bufanda", 
      "soñé que no podía expresar el principio de expresabilidad", 
      "soñé con brianna. era el último día que la veía y",
-     "me daba pena. estábamos en la residencia"
+     "me daba pena. estábamos en la residencia",
       "soñé la parte que me dormí en la película de jodorowsky y ahora entiendo por qué jaime tiene las manos así", 
 
   ], 
