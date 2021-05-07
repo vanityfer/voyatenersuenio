@@ -10596,7 +10596,7 @@ let SUGGESTIONS = [
 "soñé con una música increíble",
 "soñé con una villa",
 "soñé con uno",
-"soñe con vos pasabas con un globo naranja de los que flotan parecías contento", 
+"soñé con vos pasabas con un globo naranja de los que flotan parecías contento", 
 "soñé la parte que me dormí en la película de jodorowsky y ahora entiendo por qué jaime tiene las manos así",
 "soñé q era el fin del mundo había colectivos a los nuevos planetas subía néstor kirchner y no tenía cargada la sube nosotros le pagábamos el boleto",
 "soñé q era lunes y me había olvidado de ir a trabajar",
