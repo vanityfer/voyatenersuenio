@@ -4750,6 +4750,8 @@ let SUGGESTIONS = [
   "el mi amor",
   "el mi camino",
   "el mi dit",
+  "el año que viene no te voy a invitar a mi cumpleaños", 
+  "el año que viene en jerusalem", 
   "el mil tacos",
   "el mi mintio",
   "el mi mintio lyrics",
