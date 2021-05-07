@@ -172,7 +172,7 @@ let SUGGESTIONS = [
   "af_inet6 c",
   "af_inet c library",
   "after c section",
-  "alguien lo tenía que decir y se dijo"
+  "alguien lo tenía que decir y se dijo",
   "after c section back pain",
   "after c section bleeding",
   "after c section diet",
