@@ -10550,7 +10550,6 @@ let SUGGESTIONS = [
 "soñé con mi ex psicólogo",
 "soñé con mi mamá y con otra persona que se llama igual a ella",
 "soñé con ropa vintage",
-"soñé con Adrián", 
 "soñé con san cayetano me hablaba pero tenía cuerpo de estatua",
 "soñé con san la muerte",
 "soñé con sartre pero no puedo recordar qué",
