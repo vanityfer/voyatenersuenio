@@ -10735,7 +10735,7 @@ let SUGGESTIONS = [
 "soñé que nos atacaban policías desde autos voladores",
 "soñé que pagaba con cinco pesos",
 "soñé que podía convertir una foto raw a jpg",
-"soñé que ponía chubby checker para bailar y alguien lo cambiaba y ponía una canción triste de calamaro y se reía de mí",
+"soñé que ponía chubby checker para bailar",
 "soñé que ponía unas fichas en el casino y salían unos pájaros que hacían una coreografía",
 "soñé que presenciaba el parto de frankenstein",
 "soñé que robaba monedas de la fuente de una ciudad de juguete",
