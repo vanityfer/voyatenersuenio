@@ -91,7 +91,7 @@ function writeVerse(name, prefix, suffix, verses) {
     displaySuggestion(prefix);
     setTimeout(
       function() { writeVerse(name, prefix + suffix[0], suffix.substr(1), verses); },
-      AFTER_LETTER_DELAY*2
+      AFTER_LETTER_DELAY*1.5
     );
   }
 }
