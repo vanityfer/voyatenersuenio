@@ -50,7 +50,6 @@ let VERSES = {
     "cruzábamos de la mano",
      "",
     "soñé con un lugar mágico al que se podía entrar desde mi casa",
-    "soñé que juan ariel gomez me decía sos un embole en blanco y negro",
     "dormí siete minutos y soñé",
     "que bajaba once pisos por una escalera hecha con sogas",
     "soñé que había una aplicación para ubicar contenedores", 
