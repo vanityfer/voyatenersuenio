@@ -10504,7 +10504,7 @@ let SUGGESTIONS = [
   "se perdían abajo del agua", 
   "con lo que aparece qué", 
   "nos tomábamos agua bendita", 
-  "a una pizzería" 
+  "a una pizzería", 
   "soñé algo que me mató para siempre",
   "soñé algo re trascendente",
   "soñé con quinientos australes en droga",
