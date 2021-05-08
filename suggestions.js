@@ -10833,7 +10833,6 @@ let SUGGESTIONS = [
  "soñé que la gata se moría",
 "soñé que la hermana de maría era un androide",
 "soñé que la tortuga era un ser expresivo que me quería estábamos en el patio",
-"soñé que le daba un abrazo a mi perra",
 "soñé que le daba una bebé a los lobos",
 "soñé que le decía a alguien a vos te va a encantar goodreads",
 "soñé que le decía te amo a mi ex novio",
