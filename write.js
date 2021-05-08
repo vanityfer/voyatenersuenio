@@ -49,7 +49,7 @@ function start(name) {
   hideSuggestion();
   setTimeout(
     function() { write(name, [...VERSES[name]]); },
-    AFTER_LETTER_DELAY*2
+    AFTER_LETTER_DELAY
   );
 }
 
