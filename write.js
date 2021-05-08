@@ -85,13 +85,13 @@ function writeVerse(name, prefix, suffix, verses) {
         elem.appendChild(A(P1(TEXT(prefix)), 'https://www.google.com/search?q=' + prefix));
         write(name, verses);
       },
-      AFTER_VERSE_DELAY*2
+      AFTER_VERSE_DELAY*1.7
     );
   } else {
     displaySuggestion(prefix);
     setTimeout(
       function() { writeVerse(name, prefix + suffix[0], suffix.substr(1), verses); },
-      AFTER_LETTER_DELAY*2
+      AFTER_LETTER_DELAY*1.7
     );
   }
 }
