@@ -10615,8 +10615,6 @@ let SUGGESTIONS = [
 "las notificaciones de facebook están verdes o lo soñé",
 "no sé",
 "siempre soñé con trabajar en emirates",
-"soñé algo horrible",
-"soñé algo que me hizo mal",
 "soñé que podía volar", 
 "soñé con 500000 australes",
 "soñé con adriana cortés y que nos perseguía el nazismo",
