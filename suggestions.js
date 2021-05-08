@@ -10571,7 +10571,6 @@ let SUGGESTIONS = [
   "soñé toda la noche contigo", 
   "soñé c perros",
   "soñé que estoy embarazada",
-  "soñé algo horrible",
   "también soñé que andaba en patineta", 
   "se perdían abajo del agua", 
   "con lo que aparece qué", 
