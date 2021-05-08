@@ -10796,7 +10796,7 @@ let SUGGESTIONS = [
 "soñé que no me podía dormir en australia",
 "soñé que no me podía mover ni hablar",
 "soñé que no podía respirar",
-"soñé que no podía hablar"
+"soñé que no podía hablar",
  "soñé que no podía moverme ni hablar",
  "soñé que no podía abrir los ojos", 
 "soñé que no podía hablar",
