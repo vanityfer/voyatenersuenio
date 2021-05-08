@@ -10766,6 +10766,7 @@ let SUGGESTIONS = [
  "siempre soñé con encontrar un amor", 
  "soñé que estaba lloviendo", 
  "soñé que estaba trabajando", 
+ "soñé algo horrible", 
  "soñé que estaba embarazada", 
  "soñé que estaba llorando", 
   "soñé que estaba en una fiesta",  
