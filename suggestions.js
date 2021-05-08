@@ -10612,7 +10612,6 @@ let SUGGESTIONS = [
  "estábamos los dos mirando el mar",
 "el otro día soñé que me soltaba",
 "en la siesta soñé que tenía el cabello largo",
-"las notificaciones de facebook están verdes o lo soñé",
 "no sé",
 "siempre soñé con trabajar en emirates",
 "soñé que podía volar", 
