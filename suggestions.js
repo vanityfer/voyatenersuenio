@@ -10757,7 +10757,7 @@ let SUGGESTIONS = [
  "soñé que estaba llorando", 
   "soñé que estaba en una fiesta",  
  "soñé que mi padre fallecido estaba vivo", 
-  "soñé que mi padre estaba muerto"
+  "soñé que mi padre estaba muerto",
   "soñé que mi padre se suicidaba", 
   "soñé que mi padre había muerto", 
   "soñé que mi padre muerto volvía a morir", 
