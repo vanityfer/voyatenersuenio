@@ -439,6 +439,15 @@ let VERSES = {
 
 
   ]
+   
+   ".":["todavía no soñé"
+   ]
+    ".":["todavía no soñé"
+   ]
+    ".":["todavía no soñé"
+   ]
+    ".":["todavía no soñé"
+   ]
     
    
    
