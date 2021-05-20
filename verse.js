@@ -438,14 +438,14 @@ let VERSES = {
      "en la parte de atrás de una porción de pizza"
 
 
-  ]
+  ],
    
    ".":["todavía no soñé"
-   ]
+   ],
     ".":["todavía no soñé"
-   ]
+   ],
     ".":["todavía no soñé"
-   ]
+   ],
     ".":["todavía no soñé"
    ]
     
