@@ -442,11 +442,13 @@ let VERSES = {
    
    ".":["todavía no soñé"
    ],
-    ".":["todavía no soñé"
+    ".":["y aquí en el sueño están sus palabras", 
+         "aunque no las reconozca", 
    ],
-    ".":["todavía no soñé"
+    ".":["aunque no sepa qué dicen",
    ],
-    ".":["todavía no soñé"
+    ".":["aquí aunque se posen sobre la función",
+         "de un sinsentido equivocado",
    ]
     
    
