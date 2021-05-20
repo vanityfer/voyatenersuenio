@@ -13,10 +13,10 @@ let NAMES = [
   "soñé   ", 
   "soñé  ",
   "soñé ",
-   ".",
-   ".", 
-   ".",
-   ".",
+   " .",
+   ". ", 
+   "  .",
+   ".  ",
   
    
   
@@ -440,14 +440,14 @@ let VERSES = {
 
   ],
    
-   ".":["todavía no soñé"
+   " .":["todavía no soñé"
    ],
-    ".":["y aquí en el sueño están sus palabras", 
+    ". ":["y aquí en el sueño están sus palabras", 
          "aunque no las reconozca", 
    ],
-    ".":["aunque no sepa qué dicen",
+    "  .":["aunque no sepa qué dicen",
    ],
-    ".":["aquí aunque se posen sobre la función",
+    ".  ":["aquí aunque se posen sobre la función",
          "de un sinsentido equivocado",
    ]
     
