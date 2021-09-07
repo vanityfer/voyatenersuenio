@@ -16,14 +16,22 @@
     <script type="text/javascript" src="write.js"></script>
     <script type="text/javascript" src="verse.js"></script>
     <style type="text/css" rel="style.css"></style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DotGothic16&display=swap" rel="stylesheet">
   </head>
   <body onload="main()">
+     <script type="text/javascript">
+  document.querySelector("body").style.backgroundImage = 
+   "url(imagen" + Math.floor( Math.random() * 30 ) + ".gif)";
+ </script>
+
     
     <div class="main">
       <h1>
-        <span class="gblue">&bullet;</span><span class="gred">&bullet;</span><span class="gyellow">&bullet;</span>
+        <span class="gblue"></span></span>
         Voy a tener sueño
-        <span class="gblue">&bullet;</span><span class="ggreen">&bullet;</span><span class="gred">&bullet;</span>
+        <span class="gblue"></span>
       </h1>
       <div class="menu" id="menu">
       </div>
