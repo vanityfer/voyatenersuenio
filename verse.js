@@ -440,7 +440,18 @@ let VERSES = {
 
   ],
    
-   " .":["todavía no soñé"
+   " .":["soñé que me perseguía una ranita blanca",
+         "soñé que se podían enviar gatitos reales por internet y que se podían debuggear personas",
+         "soñé con lydia lamaison",
+         "soñé que cantaba silvio rodriguez en la afip",
+         "soñé que J preguntaba si se podía llegar al mar de otra manera",
+         "anoche soñé que alguien me criticaba la pronunciación de 'scribd' y hoy",
+         "escuché por primera vez a alguien pronunciarlo distinto de como lo pronuncio",
+         "soñé que tenía miedo y le daba la mano a mi gata",
+         "soñé que bajaba y bajaba",
+         "soñé con el ladrido de Maitena"
+         
+         
    ],
     ". ":["y aquí en el sueño están sus palabras", 
          "aunque no las reconozca", 
