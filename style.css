@@ -1,5 +1,6 @@
 body {
   font-size: 20pt;
+  font-family:'DotGothic16', sans-serif;
   overflow-y: scroll;
   background-image: url("llanu.jpg");
   background-size: cover;
@@ -8,15 +9,17 @@ body {
   
 }
 .main {
-  font-family: "DoGothic16";
+   font-family:'DotGothic16', sans-serif;
   line-height: .8;
   color:white;
   font-weight: bold;
+
   
   
   
 }
 .stanzabox {
+   font-family:'DotGothic16', sans-serif;
   width: 90%;
   #margin: 0 auto;
   font-weight: bold;
@@ -57,6 +60,7 @@ body {
   margin: 0 auto;
   color:black;
   font-weight: bold;
+  background-color:transparent;
 }
 .suggestionbox {
   /border: solid lightgray 1px;*/
@@ -66,16 +70,19 @@ body {
   padding-left: .5em;
   background: transparent;
   opacity: 0.5;
+  color:black;
 }
 .suggestion {
   font-weight: bold;
 }
 h1 {
   text-align: center;
+  color:black;
 }
 a {
   text-decoration: none;
   color: #000000; 
+
 }
 
 
